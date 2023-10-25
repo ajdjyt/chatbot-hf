@@ -1,0 +1,12 @@
+transformers
+ipykernel
+chardet
+jupyter
+pytorch 
+torchvision 
+torchaudio 
+pytorch-cuda=12.1
+accelerate 
+bitsandbytes
+sentencepiece
+rich

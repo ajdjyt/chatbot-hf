@@ -7,3 +7,5 @@ pip install ipykernel
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 implemented "PY007/TinyLlama-1.1B-Chat-v0.3" in main.ipynb
 need to buld an api endpoint and the webapp now
+created fastapi app in main.py
+create and update readme

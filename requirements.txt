@@ -8,3 +8,4 @@ sentencepiece
 rich
 fastapi
 uvicorn
+trl
